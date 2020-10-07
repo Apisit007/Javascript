@@ -1,0 +1,10 @@
+คำสั่งสร้างโปรเจค
+laravel new blog
+composer create-project --prefer-dist laravel/laravel blog
+คำสั่ง Run
+php artisan serve
+คำสั่งสร้าง Framework Fron-End version 7.0 
+composer require laravel/ui
+php artisan ui vue --auth
+php artisan ui react--auth
+API_Vue = http://www.omdbapi.com/?s=green&apikey=19662a8d
